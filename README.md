@@ -1,1 +1,1 @@
-# ssnakegame - Link: https://luanlls.github.io/ssnakegame/
+# ssnakegame - link: https://luanlls.github.io/ssnakegame/
